@@ -1,0 +1,12 @@
+load pcl: $fffc
+set pcl: $89
+load pch: $fffd
+set pch: $89
+load pcl: $fffe
+set pcl: $89
+load pch: $ffff
+set pch: $89
+load pcl: $fffa
+set pcl: $89
+load pch: $fffb
+set pch: $89

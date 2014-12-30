@@ -1,0 +1,11 @@
+result 0000_0000, c=0, rotate=0, right=0  => 0000_0000, n=0, z=1, c=0
+result 1000_0000, c=0, rotate=0, right=0  => 0000_0000, n=0, z=1, c=1
+result 0100_0001, c=0, rotate=0, right=0  => 1000_0010, n=1, z=0, c=0
+result 0100_0001, c=1, rotate=0, right=0  => 1000_0010, n=1, z=0, c=0
+result 0100_0001, c=1, rotate=1, right=0  => 1000_0011, n=1, z=0, c=0
+result 1000_0000, c=1, rotate=1, right=0  => 0000_0001, n=0, z=0, c=1
+result 1000_0000, c=1, rotate=1, right=1  => 1100_0000, n=1, z=0, c=0
+result 1000_0000, c=0, rotate=1, right=1  => 0100_0000, n=0, z=0, c=0
+result 1000_0000, c=0, rotate=0, right=1  => 0100_0000, n=0, z=0, c=0
+result 1000_0000, c=1, rotate=0, right=1  => 0100_0000, n=0, z=0, c=0
+result 0000_0001, c=1, rotate=0, right=1  => 0000_0000, n=0, z=1, c=1

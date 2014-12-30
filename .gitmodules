@@ -1,0 +1,3 @@
+[submodule "third_party/tvcl"]
+	path = third_party/tvcl
+	url = git@github.com:toyoshim/tvcl.git

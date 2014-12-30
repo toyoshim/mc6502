@@ -1,0 +1,5 @@
+pc = $0000
+pc = $0001
+pc = $00ef
+pc = $beef
+pc = $bef0
