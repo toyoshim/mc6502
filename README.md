@@ -3,6 +3,9 @@ mc6502
 
 Cycle accurate MC6502 compatible processor in Verilog.
 
+This is an experimental project, and wasn't verified well.
+There will be many bugs and it will not meet practical use requirements.
+
 Directories
 -----------
 
